@@ -4,9 +4,7 @@
 
 Welcome to the FitFreaks website repository! This project is a comprehensive fitness platform designed to help users achieve their fitness goals. FitFreaks provides various features that cater to the needs of fitness enthusiasts, from tracking workouts to engaging with a fitness community.
 
-## Live Demo
 
-Check out the live demo [here]( ADD live link here).
 
 ## Features
 
